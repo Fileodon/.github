@@ -10,7 +10,8 @@ Håndtér forbindelser, filer, brugere, rettigheder og auditlogs — samlet ét 
 
 [![Frontend](https://img.shields.io/badge/Frontend-Nuxt-00DC82?logo=nuxt&logoColor=white)](https://github.com/Fileodon/frontend)
 [![API](https://img.shields.io/badge/API-.NET_10-512BD4?logo=dotnet&logoColor=white)](https://github.com/Fileodon/FileodonAPI)
-[![CLI](https://img.shields.io/badge/CLI-Linux-FCC624?logo=linux&logoColor=black)](https://github.com/Fileodon/CLI)
+[![CLI](https://img.shields.io/badge/CLI-.NET_10-512BD4?logo=dotnet&logoColor=white)](https://github.com/Fileodon/CLI)
+[![PAM](https://img.shields.io/badge/PAM-.NET_10-512BD4?logo=dotnet&logoColor=white)](https://github.com/Fileodon/pamModul)
 
 </div>
 
